@@ -1,0 +1,17 @@
+{
+	"name": "discordjs-v14",
+	"version": "1.0.0",
+	"main": "src/index.js",
+	"license": "MIT",
+	"author": {
+		"name": "phxS",
+		"url": "https://github.com/PhoenixSOFF"
+	},
+	"type": "module",
+	"dependencies": {
+		"chalk": "^5.0.1",
+		"discord.js": "^14.3.0",
+		"dotenv": "^16.0.2",
+		"glob": "^8.0.3"
+	}
+}
